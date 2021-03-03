@@ -1,0 +1,15 @@
+{
+  "name": "snowpack-plugin-posthtml",
+  "version": "0.1.0",
+  "description": "Snowpack plugin for PostHTML",
+  "main": "plugin.js",
+  "license": "MIT",
+  "keywords": [
+    "snowpack plugin",
+    "posthtml"
+  ],
+  "dependencies": {
+    "posthtml": "^0.15.1",
+    "posthtml-load-config": "^2.0.0"
+  }
+}
